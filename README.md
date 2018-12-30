@@ -8,6 +8,8 @@
 
 ## 2017
 
+* Bollegala, Danushka, Kohei Hayashi, and Ken-ichi Kawarabayashi. "[Think Globally, Embed Locally---Locally Linear Meta-embedding of Words.](https://arxiv.org/abs/1709.06671)" arXiv preprint arXiv:1709.06671 (2017).
+* Muromägi, Avo, Kairit Sirts, and Sven Laur. "[Linear Ensembles of Word Embedding Models.](https://arxiv.org/abs/1704.01419)" arXiv preprint arXiv:1704.01419 (2017).
 
 ## 2016
 
